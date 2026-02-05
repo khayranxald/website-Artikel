@@ -1,0 +1,11 @@
+@if(session('success'))
+    <div data-flash-success="{{ session('success') }}" class="hidden"></div>
+@endif
+
+@if(session('error'))
+    <div data-flash-error="{{ session('error') }}" class="hidden"></div>
+@endif
+
+@if(session('info'))
+    <div data-flash-info="{{ session('info') }}" class="hidden"></div>
+@endif
