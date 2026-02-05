@@ -276,8 +276,8 @@ This project is open-sourced software licensed under the MIT license.
 ## 👨‍💻 Author
 
 **NIMpress Team**
-- Email: info@nimpress.id
-- Website: https://nimpress.id
+- Email: rehanxald@gmail.com
+- Website: -
 
 ## 🙏 Acknowledgments
 
