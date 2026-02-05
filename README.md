@@ -291,9 +291,9 @@ This project is open-sourced software licensed under the MIT license.
 ## 📞 Support
 
 Jika mengalami kendala atau memiliki pertanyaan:
-- Email: support@nimpress.id
-- GitHub Issues: [Create an issue](https://github.com/username/nimpress/issues)
+- Email: rehanxald@gmail.com
+- Instagram: _khyranxald
 
 ---
 
-**Built with ❤️ by NIMpress Team**
+**Built with ❤️ by Khayran Ald Afasy**
